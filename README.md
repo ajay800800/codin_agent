@@ -13,7 +13,7 @@ A Python-based application that generates and executes Python code based on user
   - **pathlib**: Handles file paths and directories
 - 🚀 **Backend**: Flask (REST API for code generation and execution)
 - 🔗 **Communication**: JSON-based API requests
-![Architecture Diagram](flow1.png)
+![Architecture Diagram](Screenshot from 2025-07-24 14-10-26.png)
 ![Architecture Diagram](flow1.png)
 
 ---
