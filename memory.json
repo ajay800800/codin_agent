@@ -1,0 +1,18 @@
+{
+  "history": [
+    {
+      "attempt": 1,
+      "code": "print(\"Hello World!\")\n\nfor language in [\"Python\", \"Java\", \"C++\", \"JavaScript\", \"Ruby\"]:\n    print(f\"Hello {language}!\")",
+      "output": "Hello World!\nHello Python!\nHello Java!\nHello C++!\nHello JavaScript!\nHello Ruby!",
+      "error": "",
+      "filename": "/home/vaishnav/autocoder/autofile/generated_code_1.py"
+    },
+    {
+      "attempt": 1,
+      "code": "# Your Python code here\nprint(\"Hello World!\")\n\nprograms = [\"Python\", \"C++\", \"Java\", \"Kotlin\", \"Ruby\"]\nfor language in programs:\n    print(f\"Writing a program in {language} means writing hello to the world too!\")",
+      "output": "Hello World!\nWriting a program in Python means writing hello to the world too!\nWriting a program in C++ means writing hello to the world too!\nWriting a program in Java means writing hello to the world too!\nWriting a program in Kotlin means writing hello to the world too!\nWriting a program in Ruby means writing hello to the world too!",
+      "error": "",
+      "filename": "/home/vaishnav/autocoder/autofile/generated_code_1.py"
+    }
+  ]
+}
